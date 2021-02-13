@@ -1,3 +1,3 @@
 # SpecFlowBdd
 
-Specflow framework using C#
+Specflow framework using selenium and C#
